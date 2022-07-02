@@ -15,7 +15,7 @@ h1 {
 body {
     position: relative;
     padding: 0;
-    background: url(/huddle-landing-page-with-single-introductory-section-master/images/bg-desktop.svg)no-repeat;
+    background: url("bg-desktop.svg")no-repeat;
     background-attachment: fixed;
     background-size: cover;
     margin: 0;
